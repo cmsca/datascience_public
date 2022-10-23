@@ -10,9 +10,9 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 The purpose of this session is to ensure each participant has their local development environment set up for the classes to follow. We'll cover:
 
-- [ ] Installing Python
-- [ ] Installing a text editor (VSCode)
-- [ ] Installing the SQLite browser
+- [ ] Installing [Python](https://www.python.org/)
+- [ ] Installing a text editor ([VSCode](https://code.visualstudio.com/download))
+- [ ] Installing the [DB Browser for SQLite](https://sqlitebrowser.org/)
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
