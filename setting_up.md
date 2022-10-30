@@ -12,21 +12,26 @@
 
 - Article on [setting up virtualenv for Windows](https://linuxhint.com/activate-virtualenv-windows/)
 
-Installing virtualenv on windows:
+Installing virtualenv on Windows:
 
 ```
 py -m pip install virtualenv
 ```
 
-Creating virtualenv on windows:
+Creating virtualenv on Windows:
 
 ```
-py  -m virtualenv venv
+py -m virtualenv venv
 ```
 
-Activating a venv on windows:
+Activating a venv on Windows:
 
 ```
 venv\Scripts\activate
 ```
 
+Deactivating a venv on Windows:
+
+```
+deactivate
+```
