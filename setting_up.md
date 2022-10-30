@@ -10,3 +10,23 @@
 
 ## Resources / Notes from the session:
 
+- Article on [setting up virtualenv for Windows](https://linuxhint.com/activate-virtualenv-windows/)
+
+Installing virtualenv on windows:
+
+```
+py -m pip install virtualenv
+```
+
+Creating virtualenv on windows:
+
+```
+py  -m virtualenv venv
+```
+
+Activating a venv on windows:
+
+```
+venv\Scripts\activate
+```
+
