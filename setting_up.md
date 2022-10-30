@@ -35,3 +35,27 @@ Deactivating a venv on Windows:
 ```
 deactivate
 ```
+
+Installing virtualenv on Mac:
+
+```
+pip install virtualenv
+```
+
+Creating virtual env on Mac:
+
+```
+virtualenv venv
+```
+
+Activating a venv on Mac:
+
+```
+source venv/bin/activate
+```
+
+Deactivating a venv on Mac:
+
+```
+deactivate
+```
