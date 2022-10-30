@@ -6,6 +6,12 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 [Please join our Discord Channel](https://discord.com/invite/tsxYHw4K).  Any issues joining, email socialmedia@cmsca.org.
 
+[Zoom][[https://zoom.us/j/95091138868?pwd=TjBERjhlSGppZ3dIT01BVDBmUXlsUT09]]
+
+Meeting ID: 950 9113 8868
+
+Passcode: CxiA7H
+
 ## Agenda
 
 ### 30 Oct 2022, 2-4pm EST, Charlotte Mecklenburg Library - SouthPark Regional | [Setting up your Development Environment](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
