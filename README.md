@@ -6,7 +6,7 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 [Please join our Discord Channel](https://discord.com/invite/tsxYHw4K).  Any issues joining, email socialmedia@cmsca.org.
 
-[Zoom][[https://zoom.us/j/95091138868?pwd=TjBERjhlSGppZ3dIT01BVDBmUXlsUT09]]
+https://zoom.us/j/95091138868?pwd=TjBERjhlSGppZ3dIT01BVDBmUXlsUT09
 
 Meeting ID: 950 9113 8868
 
