@@ -8,7 +8,7 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 ## Agenda
 
-### 30 Oct 2022, 2-4pm EST, Charlotte Mecklenburg Library - SouthPark Regional | Setting up your Development Environment
+### 30 Oct 2022, 2-4pm EST, Charlotte Mecklenburg Library - SouthPark Regional | [Setting up your Development Environment](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
 The purpose of this session is to ensure each participant has their local development environment set up for the classes to follow. We'll cover:
 
