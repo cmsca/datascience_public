@@ -1,6 +1,6 @@
 ## Overview
 
-Welcome to the CMCSSA Data Science group! This group is open to anyone, regardless of prior programming experience.
+Welcome to the CMSCA Data Science group! This group is open to anyone, regardless of prior programming experience.
 
 This group will meet ~1x per month to explore and learn new data science concepts. The classes herein are structured so each class will be useful in and of itself. For participants who join all the sessions, we'll tie everything together at the end of the year by using everything we've learned to build a knowledge graph of chess player and the results of their matches.
 
