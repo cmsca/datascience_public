@@ -53,7 +53,7 @@ Course work that can help you today to start preparing to become a data scientis
 
 ### Salary Range
 
-With just a few years of experience, a Data Scientist can expect to earn over $100,000/year.
+With a degree in the field and just a few years of experience, a Data Scientist can expect to earn over $100,000/year (will vary by location and industry).
 
 ### Famous Data Scientists
 
