@@ -1,6 +1,14 @@
-[TOC]
-
-
+- [Overview](#overview)
+- [Agenda](#agenda)
+  - [30 Oct 2022, 2-4pm EST, Charlotte Mecklenburg Library - SouthPark Regional | Setting up your Development Environment](#30-oct-2022-2-4pm-est-charlotte-mecklenburg-library---southpark-regional--setting-up-your-development-environment)
+  - [TBA | Intro to Python](#tba--intro-to-python)
+  - [TBA | Intro to Web Scraping](#tba--intro-to-web-scraping)
+  - [TBA | Into to SQLite](#tba--into-to-sqlite)
+  - [TBA | Using Web Scraping to Get Chess Match Results](#tba--using-web-scraping-to-get-chess-match-results)
+  - [TBA | Intro to Plotly Dash](#tba--intro-to-plotly-dash)
+  - [TBA | Intro to Cytoscape](#tba--intro-to-cytoscape)
+  - [TBA | Building a Knowledge Graph of Chess Match Results](#tba--building-a-knowledge-graph-of-chess-match-results)
+  - [Additional Topics](#additional-topics)
 
 ## Overview
 
