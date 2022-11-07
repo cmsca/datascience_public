@@ -1,19 +1,16 @@
+[TOC]
+
+
+
 ## Overview
 
 Welcome to the CMSCA Data Science Student Project! This group is open to anyone, regardless of prior programming experience.
 
 This group will meet ~1x per month to explore and learn new data science concepts. The classes herein are structured so each class will be useful in and of itself. For participants who join all the sessions, we'll tie everything together at the end of the year by using everything we've learned to build a knowledge graph of chess player and the results of their matches.
 
-[Please join our Discord Channel](https://discord.com/invite/tsxYHw4K). Any issues joining, email socialmedia@cmsca.org.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord Channel: [https://discord.com/invite/tsxYHw4K](https://discord.com/invite/tsxYHw4Khttps:/)
 
-New (Shawn): https://us02web.zoom.us/j/83673285401?pwd=Y2pOT0JsYjNsbWUxTmVuODhuMXNHQT09
-
-Old:
-https://zoom.us/j/95091138868?pwd=TjBERjhlSGppZ3dIT01BVDBmUXlsUT09
-
-Meeting ID: 950 9113 8868
-
-Passcode: CxiA7H
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any issues joining, please email [socialmedia@cmsca.org](mailto:socialmedia@cmsca.org).
 
 ## Agenda
 
