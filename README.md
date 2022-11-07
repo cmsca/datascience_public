@@ -1,7 +1,7 @@
 - [Overview](#overview)
 - [Agenda](#agenda)
-  - [Setting up your Development Environment | 30 Oct 2022](#setting-up-your-development-environment--30-oct-2022)
-  - [Intro to Python | 13 Nov 2022](#intro-to-python--13-nov-2022)
+  - [Setting up your Development Environment (30 Oct 2022)](#setting-up-your-development-environment-30-oct-2022)
+  - [Intro to Python (13 Nov 2022)](#intro-to-python-13-nov-2022)
   - [TBA | Intro to Web Scraping](#tba--intro-to-web-scraping)
   - [TBA | Into to SQLite](#tba--into-to-sqlite)
   - [TBA | Using Web Scraping to Get Chess Match Results](#tba--using-web-scraping-to-get-chess-match-results)
@@ -22,7 +22,7 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 ## Agenda
 
-### Setting up your Development Environment | 30 Oct 2022
+### Setting up your Development Environment (30 Oct 2022)
 * Date/Time: 30 Oct 2022, 2-4pm ET
 * Location: SouthPark Regional Library
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
@@ -35,11 +35,11 @@ The purpose of this session is to ensure each participant has their local develo
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
-### Intro to Python | 13 Nov 2022
+### Intro to Python (13 Nov 2022)
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: SouthPark Regional Library
-* Class Notes:
+* Class Notes: 
 
 The purpose of this session is to ensure each participant is comfortable enough with Python to enjoy and learn from the course.
 
