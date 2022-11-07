@@ -1,6 +1,6 @@
 - [Overview](#overview)
   - [What is Data Science?](#what-is-data-science)
-  - [What does a Data Scientist Do?](#what-does-a-data-scientist-do)
+  - [What does a Data Scientist do?](#what-does-a-data-scientist-do)
   - [Why is it important?](#why-is-it-important)
   - [Key Skills](#key-skills)
   - [Related Course Work](#related-course-work)
@@ -29,9 +29,9 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 Data Science is the process of using data to ask questions, attempt to answer them, and then use the results to tell a story.  In a nutshell, Data Science is a very broad field involving all sorts of data, diverse, and still emerging.  Lots of exciting opportunities expected over the coming years.
 
-### What does a Data Scientist Do?
+### What does a Data Scientist do?
 
-A Data Scientist uses their skills to understand the data challenge at hand to define an approach to get to the solution.
+A Data Scientist uses their skills to understand the data challenge at hand to define an approach to get to the solution and then tell the story.
 
 ### Why is it important?
 
