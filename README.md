@@ -1,6 +1,6 @@
 - [Overview](#overview)
 - [Agenda](#agenda)
-  - [Setting up your Development Environment](#setting-up-your-development-environment)
+  - [Setting up your Development Environment | 30 Oct 2022, 2-4pm EST, SouthPark Regional Library](#setting-up-your-development-environment--30-oct-2022-2-4pm-est-southpark-regional-library)
   - [Intro to Python | 13 Nov 2022, 2-4:pm EST, South County Regional](#intro-to-python--13-nov-2022-2-4pm-est-south-county-regional)
   - [TBA | Intro to Web Scraping](#tba--intro-to-web-scraping)
   - [TBA | Into to SQLite](#tba--into-to-sqlite)
@@ -22,10 +22,9 @@ This group will meet ~1x per month to explore and learn new data science concept
 
 ## Agenda
 
-### Setting up your Development Environment
+### Setting up your Development Environment | 30 Oct 2022, 2-4pm ET, SouthPark Regional Library
 
-* Date/Location: 30 Oct 2022, 2-4pm EST, SouthPark Regional Library
-* Link: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
+> Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
 The purpose of this session is to ensure each participant has their local development environment set up for the classes to follow. We'll cover:
 
@@ -35,9 +34,11 @@ The purpose of this session is to ensure each participant has their local develo
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
-### Intro to Python | 13 Nov 2022, 2-4:pm EST, South County Regional
+### Intro to Python | 13 Nov 2022, 2-4pm ET, South County Regional Library
 
-(This sessions is tentative. If the class is already comfortable with Python then we can skip it and move to the next lesson). The purpose of this session is to ensure each participant is comfortable enough with Python to enjoy and learn from the course.
+> Class Notes:
+
+The purpose of this session is to ensure each participant is comfortable enough with Python to enjoy and learn from the course.
 
 - [ ] Variables, expressions, statements
 - [ ] Conditional execution
