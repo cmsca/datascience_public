@@ -21,7 +21,8 @@
 
 ## Overview
 
-Next Meetup:
+**Next Meetup**:
+
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: South County Regional Library
 * Address: 5801 Rea Rd, Charlotte, NC 28277
