@@ -21,6 +21,11 @@
 
 ## Overview
 
+Next Meetup:
+* Date/Time: 13 Nov 2022, 2-4pm ET
+* Location: South County Regional Library
+* Address: 5801 Rea Rd, Charlotte, NC 28277
+
 Welcome to the CMSCA Data Science Student Project! This project is open to any youth, regardless of prior programming experience.
 
 We will meet ~1x per month to explore and learn new data science concepts. The classes herein are structured so each class will be useful in and of itself. For participants who join all the sessions, we'll tie everything together at the end by using everything we've learned to build a [network graph](https://vizartpandey.com/how-to-plot-a-network-graph-with-tableau/) of a chess player and the results of their prior matches.
@@ -68,8 +73,6 @@ Any industry that collects data would benefit from having a Data Scientist to he
 
 ### Setting up your Development Environment (30 Oct 2022)
 
-* Date/Time: 30 Oct 2022, 2-4pm ET
-* Location: SouthPark Regional Library
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
 The purpose of this session is to ensure each participant has their local development environment set up for the classes to follow. We'll cover:
@@ -83,7 +86,8 @@ The purpose of this session is to ensure each participant has their local develo
 ### Intro to Python (13 Nov 2022)
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
-* Location: SouthPark Regional Library
+* Location: South County Regional Library
+* Address: 5801 Rea Rd, Charlotte, NC 28277
 * Class Notes:
 
 The purpose of this session is to ensure each participant is comfortable enough with Python to enjoy and learn from the course.
