@@ -1,4 +1,13 @@
 - [Overview](#overview)
+  - [What is Data Science?](#what-is-data-science)
+  - [What does a Data Scientist Do?](#what-does-a-data-scientist-do)
+  - [Why is it important?](#why-is-it-important)
+  - [Key Skills](#key-skills)
+  - [Related Course Work](#related-course-work)
+  - [Salary Range](#salary-range)
+  - [Famous Data Scientists](#famous-data-scientists)
+  - [Industries that need Data Scientists](#industries-that-need-data-scientists)
+  - [Join our Discord Channel](#join-our-discord-channel)
 - [Agenda](#agenda)
   - [Setting up your Development Environment (30 Oct 2022)](#setting-up-your-development-environment-30-oct-2022)
   - [Intro to Python (13 Nov 2022)](#intro-to-python-13-nov-2022)
@@ -16,13 +25,49 @@ Welcome to the CMSCA Data Science Student Project! This group is open to anyone,
 
 This group will meet ~1x per month to explore and learn new data science concepts. The classes herein are structured so each class will be useful in and of itself. For participants who join all the sessions, we'll tie everything together at the end of the year by using everything we've learned to build a knowledge graph of chess player and the results of their matches.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Discord Channel: [https://discord.com/invite/tsxYHw4K](https://discord.com/invite/tsxYHw4Khttps:/)
+### What is Data Science?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any issues joining, please email [socialmedia@cmsca.org](mailto:socialmedia@cmsca.org).
+Data Science is the process of using data to ask questions, attempt to answer them, and then use the results to tell a story.  In a nutshell, Data Science is a very broad field involving all sorts of data, diverse, and still emerging.  Lots of exciting opportunities expected over the coming years.
+
+### What does a Data Scientist Do?
+
+A Data Scientist uses their skills to understand the data challenge at hand to define an approach to get to the solution.
+
+### Why is it important?
+
+There are many fields with large amounts of data such as medicine, environmental, financial, and transportation needing to explore solutions to common problems.  For example, the next cancer breakthrough could be uncovered by the help of Data Scientists.
+
+### Key Skills
+
+The Key Skills needed to be a successful Data Scientist is curiosity, open mindedness, mathematics, statistics, software development, writing/presentation skills, and people/soft skills.
+
+### Related Course Work
+
+Course work that can help you today to start preparing to become a data scientist is English, Mathematics, Science, and Coding Courses (e.g. Python).
+
+### Salary Range
+
+With just a few years of experience, a Data Scientist can expect to earn over $100,000/year.
+
+### Famous Data Scientists
+
+* [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebruhttps:/): is a well known Scientist who is fighting for fairness and accountability in the field of Artificial Intelligence and Data Mining.  She is considered one of the world's most influential people in this field.
+* [Kira Radinsky](https://en.wikipedia.org/wiki/Kira_Radinsky) was born in Ukraine and gained recognition when she predicted via data mining the first outbreak of Cholera in Cuba in over 130 years.
+* [Caitlin Smallwood](https://www.linkedin.com/in/caitlinsmallwood) is the VP of Data Science at Netflix where she led significant breakthroughs with user's decision and predictive models and algorithms.  This led to better personalization of customer's movie recommendations.
+
+### Industries that need Data Scientists
+
+Any industry that collects data would benefit from having a Data Scientist to help them better understand their data and to uncover insights that will bring great value.
+
+### Join our Discord Channel
+
+* Discord Channel: [https://discord.com/invite/tsxYHw4K](https://discord.com/invite/tsxYHw4Khttps:/)
+* Any issues joining, please email [socialmedia@cmsca.org](mailto:socialmedia@cmsca.org).
 
 ## Agenda
 
 ### Setting up your Development Environment (30 Oct 2022)
+
 * Date/Time: 30 Oct 2022, 2-4pm ET
 * Location: SouthPark Regional Library
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
@@ -39,7 +84,7 @@ The purpose of this session is to ensure each participant has their local develo
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: SouthPark Regional Library
-* Class Notes: 
+* Class Notes:
 
 The purpose of this session is to ensure each participant is comfortable enough with Python to enjoy and learn from the course.
 
