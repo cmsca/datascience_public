@@ -33,7 +33,7 @@ We will meet ~1x per month to explore and learn new data science concepts. The c
 
 ### What is Data Science?
 
-Data Science is the process of using data to ask questions, attempt to answer them, and then use the results to tell a story.  In a nutshell, Data Science is a very broad field involving all sorts of data, diverse, and still emerging.  Lots of exciting opportunities expected over the coming years.
+Data Science is the process of collecting data to analyze and ask questions, attempt to answer them, and then use the results to make decisions and/or to tell a story.  Data Science is a very broad field involving all sorts of data, across a diverse set of industries, and still emerging.  Lots of exciting opportunities expected over the coming years.  Please go [here for additional reading](https://https://www.create-learn.us/blog/data-science-for-children/).
 
 ### What does a Data Scientist do?
 
