@@ -27,7 +27,7 @@
 * Location: South County Regional Library
 * Address: 5801 Rea Rd, Charlotte, NC 28277
 * Cost: Free!
-* **Important**: Sign Up Here: [https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform]([https://](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform))
+* **Important**: Sign Up Here: [https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform)
 
 Welcome to the CMSCA Data Science Student Project! This project is open to any youth, regardless of prior programming experience.
 
