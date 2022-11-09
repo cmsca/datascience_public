@@ -9,15 +9,15 @@
   - [Industries that need Data Scientists](#industries-that-need-data-scientists)
   - [Join our Discord Channel](#join-our-discord-channel)
 - [Agenda](#agenda)
-  - [Setting up your Development Environment (30 Oct 2022)](#setting-up-your-development-environment-30-oct-2022)
-  - [Intro to Python (13 Nov 2022)](#intro-to-python-13-nov-2022)
-  - [TBA | Intro to Web Scraping](#tba--intro-to-web-scraping)
-  - [TBA | Into to SQLite](#tba--into-to-sqlite)
-  - [TBA | Using Web Scraping to Get Chess Match Results](#tba--using-web-scraping-to-get-chess-match-results)
-  - [TBA | Intro to Plotly Dash](#tba--intro-to-plotly-dash)
-  - [TBA | Intro to Cytoscape](#tba--intro-to-cytoscape)
-  - [TBA | Building a Knowledge Graph of Chess Match Results](#tba--building-a-knowledge-graph-of-chess-match-results)
-  - [Additional Topics](#additional-topics)
+  - [1. Setting up your Development Environment (30 Oct 2022)](#1-setting-up-your-development-environment-30-oct-2022)
+  - [2. Intro to Python (13 Nov 2022)](#2-intro-to-python-13-nov-2022)
+  - [3. TBA | Intro to Web Scraping](#3-tba--intro-to-web-scraping)
+  - [4. TBA | Into to SQLite](#4-tba--into-to-sqlite)
+  - [5. TBA | Using Web Scraping to Get Chess Match Results](#5-tba--using-web-scraping-to-get-chess-match-results)
+  - [6. TBA | Intro to Plotly Dash](#6-tba--intro-to-plotly-dash)
+  - [7. TBA | Intro to Cytoscape](#7-tba--intro-to-cytoscape)
+  - [8. TBA | Building a Knowledge Graph of Chess Match Results](#8-tba--building-a-knowledge-graph-of-chess-match-results)
+  - [9. Additional Topics](#9-additional-topics)
 
 ## Overview
 
@@ -74,7 +74,7 @@ Any industry that collects data would benefit from having a Data Scientist to he
 
 ## Agenda
 
-### Setting up your Development Environment (30 Oct 2022)
+### 1. Setting up your Development Environment (30 Oct 2022)
 
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
@@ -86,7 +86,7 @@ The purpose of this session is to ensure each participant has their local develo
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
-### Intro to Python (13 Nov 2022)
+### 2. Intro to Python (13 Nov 2022)
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: South County Regional Library
@@ -103,7 +103,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### TBA | Intro to Web Scraping
+### 3. TBA | Intro to Web Scraping
 
 The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
 
@@ -113,7 +113,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Requests
 - [ ] Beautiful Soup
 
-### TBA | Into to SQLite
+### 4. TBA | Into to SQLite
 
 The purpose of this session is to ensure each participant is familiar with the basics of SQLite3.
 
@@ -123,14 +123,14 @@ The purpose of this session is to ensure each participant is familiar with the b
 - [ ] Querying tables
 - [ ] Updating tables
 
-### TBA | Using Web Scraping to Get Chess Match Results
+### 5. TBA | Using Web Scraping to Get Chess Match Results
 
 This will be a project-focused session wherein each participant will use web scraping to extract chess match results and write them to a SQLite database. We'll write two programs:
 
 - [ ] Scraping chess player profiles to create a table of player and player IDs
 - [ ] Scraping chess player match results to create a table of each player and the results of their last 30 matches
 
-### TBA | Intro to Plotly Dash
+### 6. TBA | Intro to Plotly Dash
 
 The purpose of this session is to ensure each participant is familiar with Dash, a popular Python framework for developing data-focused web applications. We'll cover:
 
@@ -139,7 +139,7 @@ The purpose of this session is to ensure each participant is familiar with Dash,
 - [ ] Basic callbacks
 - [ ] Bootswatch
 
-### TBA | Intro to Cytoscape
+### 7. TBA | Intro to Cytoscape
 
 The purpose of this session is to ensure each participant is familiar with Cytoscape, a popular framework for developing knowledge graphs. We'll cover:
 
@@ -147,7 +147,7 @@ The purpose of this session is to ensure each participant is familiar with Cytos
 - [ ] Overview of popular knowledge graph solutions
 - [ ] 'Deep dive' on Cytoscape and how to leverage it through Dash applications
 
-### TBA | Building a Knowledge Graph of Chess Match Results
+### 8. TBA | Building a Knowledge Graph of Chess Match Results
 
 This will be a project-focused session wherein each participant will make a knowledge graph of chess players by combining web scraping + SQLite + Dash + Cytoscape. We'll cover:
 
@@ -155,7 +155,7 @@ This will be a project-focused session wherein each participant will make a know
 - [ ] Developing a static knowledge graph
 - [ ] Developing an interactive knowledge graph
 
-### Additional Topics
+### 9. Additional Topics
 
 If the need arises during the lessons above, or if we have additional time, some additional topics we'll cover include:
 
