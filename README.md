@@ -74,7 +74,7 @@ Any industry that collects data would benefit from having a Data Scientist to he
 
 ## Agenda
 
-### 1. Setting up your Development Environment (30 Oct 2022)
+### 1. [Setting up your Development Environment (30 Oct 2022)](https://github.com/cmsca/datascience_public/blob/main/lessons/setting_up.md)
 
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
