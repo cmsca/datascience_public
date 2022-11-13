@@ -14,5 +14,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 
 ## Resources / Notes from the session:
 
+- For any participant who has not been able to set up their laptop with Python, please create a [REPLIT](https://replit.com/) account for the session
 
+- We will be using the lesson plans and material from the [Python for Everybody](https://www.py4e.com/) course
 
