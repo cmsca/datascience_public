@@ -26,7 +26,8 @@
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: South County Regional Library
 * Address: 5801 Rea Rd, Charlotte, NC 28277
-* Cost: Free!
+* Cost: Free (please consider donating)
+* Note: Please bring a laptop
 * **Important**: Sign Up Here: [https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform)
 * Zoom: [Click Here](https://zoom.us/j/93438573445?pwd=cEhOalpoU2pqVEQ0Tm0zTjdYcW5vZz09)
 
