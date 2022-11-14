@@ -88,7 +88,7 @@ The purpose of this session is to ensure each participant has their local develo
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
-### 2. Intro to Python (13 Nov 2022)
+### 2. [Intro to Python (13 Nov 2022)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_python.md)
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: South County Regional Library
