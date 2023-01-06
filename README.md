@@ -28,7 +28,7 @@
 * Address: 5801 Rea Rd, Charlotte, NC 28277
 * Cost: Free [(please consider donating)](https://paypal.me/chesscmsca)
 * Note: Please bring a laptop
-* **Important**: [Sign Up Here:](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform)
+* **Important**: [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform)
 * Zoom: [Click Here](https://zoom.us/j/93438573445?pwd=cEhOalpoU2pqVEQ0Tm0zTjdYcW5vZz09)
 
 Welcome to the CMSCA Data Science Student Project! This project is open to any youth, regardless of prior programming experience.
