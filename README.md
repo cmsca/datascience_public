@@ -23,7 +23,7 @@
 
 **Next Data Science Meetup**:
 
-* Date/Time: 13 Nov 2022, 2-4pm ET
+* Date/Time: Sunday - January 08, 2023, 2-4pm ET
 * Location: South County Regional Library
 * Address: 5801 Rea Rd, Charlotte, NC 28277
 * Cost: Free (please consider donating)
@@ -105,17 +105,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### 3. TBA | Intro to Web Scraping
-
-The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
-
-- [ ] Understanding the robots.txt file
-- [ ] 'Netiquette'
-- [ ] HTML
-- [ ] Requests
-- [ ] Beautiful Soup
-
-### 4. TBA | Into to SQLite
+### 3. Into to SQLite (08 Jan 2023)
 
 The purpose of this session is to ensure each participant is familiar with the basics of SQLite3.
 
@@ -124,6 +114,16 @@ The purpose of this session is to ensure each participant is familiar with the b
 - [ ] Creating tables
 - [ ] Querying tables
 - [ ] Updating tables
+
+### 4. TBA | Intro to Web Scraping
+
+The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
+
+- [ ] Understanding the robots.txt file
+- [ ] 'Netiquette'
+- [ ] HTML
+- [ ] Requests
+- [ ] Beautiful Soup
 
 ### 5. TBA | Using Web Scraping to Get Chess Match Results
 
