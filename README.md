@@ -105,7 +105,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### 3. Into to SQLite (08 Jan 2023)
+### 3. Intro to SQLite (08 Jan 2023)
 
 The purpose of this session is to ensure each participant is familiar with the basics of SQLite3.
 
