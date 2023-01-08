@@ -16,5 +16,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 - US Chess robots.txt file: https://new.uschess.org/robots.txt
 
+- JS Fiddle - a site for exploring HTML/CSS/JavaScript: https://jsfiddle.net/
+
 - Site we will be testing: [Good Scrapes](https://www.goodscrapes.com/)
 
