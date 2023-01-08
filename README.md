@@ -105,17 +105,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### 3. Intro to SQLite (08 Jan 2023)
-
-The purpose of this session is to ensure each participant is familiar with the basics of SQLite3.
-
-- [ ] Creating a SQLite database
-- [ ] Connecting to a SQLite database
-- [ ] Creating tables
-- [ ] Querying tables
-- [ ] Updating tables
-
-### 4. TBA | Intro to Web Scraping
+### 3. Intro to Web Scraping (8 Jan 2023)
 
 The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
 
@@ -124,6 +114,16 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] HTML
 - [ ] Requests
 - [ ] Beautiful Soup
+
+### 4. TBA | Intro to SQLite
+
+The purpose of this session is to ensure each participant is familiar with the basics of SQLite3.
+
+- [ ] Creating a SQLite database
+- [ ] Connecting to a SQLite database
+- [ ] Creating tables
+- [ ] Querying tables
+- [ ] Updating tables
 
 ### 5. TBA | Using Web Scraping to Get Chess Match Results
 
