@@ -23,9 +23,10 @@ The purpose of this session is to ensure each participant feels comfortable with
 - Replit online code editor: https://replit.com/
 
 ```python
-import time
-import requests
+import time        # so we can pause between scrapes
+import requests    # so we can send traffic to sites
 
+# list of five links to scrape for demo purposes
 site_test_list = [
   'https://good-scrapes.s3.amazonaws.com/html_pages/pressed_mozzarella_and_tomato_sandwich.html',
   'https://good-scrapes.s3.amazonaws.com/html_pages/sweet_and_savory_baked_chicken_with_pineapple_and_tarragon.html',
@@ -34,15 +35,15 @@ site_test_list = [
   'https://good-scrapes.s3.amazonaws.com/html_pages/angel-hair_pasta_with_black_truffles.html'
 ]
 
+# looping through our list
 for site in site_test_list:
 
-  url = site
-  r = requests.get(url)
-  if r.status_code == 200:
+  r = requests.get(site)               # assign a variable to the website request
+  if r.status_code == 200:             # if the request is good, print 'good link'
     print(f'good link: {site}')
-  else:
+  else:                                # if the request is bad, print 'bad link'
     print(f'BAD LINK: {site}')
 
-  time.sleep(5)
+  time.sleep(5)                        # pause for 5 seconds
 ```
 
