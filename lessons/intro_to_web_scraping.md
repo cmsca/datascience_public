@@ -12,5 +12,9 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 ## Resources / Notes from the session:
 
-- Notes will go here...
+- Understanding what you are allowed to scrape on a website (the 'robots.txt' file): https://www.robotstxt.org/robotstxt.html
+
+- US Chess robots.txt file: https://new.uschess.org/robots.txt
+
+- Site we will be testing: [Good Scrapes](https://www.goodscrapes.com/)
 
