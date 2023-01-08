@@ -8,7 +8,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] 'Netiquette'
 - [ ] HTML
 - [ ] Requests
-- [ ] Beautiful Soup
+- [ ] Beautiful Soup (time permitting)
 
 ## Resources / Notes from the session:
 
