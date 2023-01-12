@@ -105,7 +105,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### 3. Intro to Web Scraping (8 Jan 2023)
+### 3. [Intro to Web Scraping (8 Jan 2023)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_web_scraping.md)
 
 The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
 
