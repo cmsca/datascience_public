@@ -15,6 +15,8 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 - W3 Schools SQL tutorial: https://www.w3schools.com/sql/
 
+- W3 SQL (in browser) editor: https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc
+
 - US Chess website: https://new.uschess.org/
 
 - US Chess (old) website: https://www.uschess.org/index.php/Players-Ratings/
