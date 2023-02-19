@@ -25,7 +25,8 @@
 
 * Date/Time: Sunday - February 19, 2023, 2-4pm ET
 * Location: South County Regional Library
-* Address: 5801 Rea Rd, Charlotte, NC 28277 (Meeting on second floor)
+* Address: 5801 Rea Rd, Charlotte, NC 28277
+* Meeting Room: Conference room on second floor
 * Cost: Free [(please consider donating)](https://paypal.me/chesscmsca)
 * Note: Please bring a laptop
 * **Important**: [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform)
