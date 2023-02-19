@@ -2,7 +2,7 @@
 
 ## Desired outcomes from this session:
 
-The purpose of this session is to ensure each participant feels comfortable with the basics of SQL. We'll cover:
+The purpose of this session is to ensure each participant feels comfortable with the basics of SQL.
 
 - [ ] Intro
 
