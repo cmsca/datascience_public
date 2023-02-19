@@ -23,13 +23,13 @@
 
 **Next Data Science Meetup**:
 
-* Date/Time: Sunday - January 08, 2023, 2-4pm ET
+* Date/Time: Sunday - February 19, 2023, 2-4pm ET
 * Location: South County Regional Library
 * Address: 5801 Rea Rd, Charlotte, NC 28277
 * Cost: Free [(please consider donating)](https://paypal.me/chesscmsca)
 * Note: Please bring a laptop
 * **Important**: [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSeJIgzGNW3DdaTVQtfDlXLH3nZiRjDWXaihHAkYuNjDzsfjrw/viewform)
-* Zoom: [Click Here](https://zoom.us/j/91774629368?pwd=OGtPYW9IaitFZ29xSmtBUmQwUmFWZz09)
+* Zoom: [Click Here](https://zoom.us/j/91515866847?pwd=dlEvd2FET2FoOWtSWGx5SU1oS0htdz09)
 
 Welcome to the CMSCA Data Science Student Project! This project is open to any youth, regardless of prior programming experience.
 
