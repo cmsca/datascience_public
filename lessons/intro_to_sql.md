@@ -6,9 +6,9 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 - [ ] Intro
 
-    SQL uses relational databases 
+    - SQL uses relational databases 
 
-    SQL provides instructions to search from a database
+    - SQL provides instructions to search from a database
 
 
 - [ ] Syntax
@@ -34,7 +34,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 - [ ] Clauses
 
-    When writing clauses always have the where clause then the and clause then the or clause. 
+    When writing clauses always have the `WHERE` clause first, then the `AND` clause, then the `OR` clause. 
     ```SQL
     LIKE '% %' -- Finds similar keywords
     ``` 
