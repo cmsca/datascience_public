@@ -10,7 +10,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Requests
 - [ ] Clauses
 - [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
-- [ ] ~Security lesson: Phishing & 2FA~
+- [ ] Security lesson: Phishing & 2FA
 
 Our timeline will be:
 
