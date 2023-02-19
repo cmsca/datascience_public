@@ -62,7 +62,7 @@ With a degree in the field and just a few years of experience, a Data Scientist 
 
 ### Famous Data Scientists
 
-* [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebruhttps:/): is a well known Scientist who is fighting for fairness and accountability in the field of Artificial Intelligence and Data Mining.  She is considered one of the world's most influential people in this field.
+* [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru): is a well known Scientist who is fighting for fairness and accountability in the field of Artificial Intelligence and Data Mining.  She is considered one of the world's most influential people in this field.
 * [Kira Radinsky](https://en.wikipedia.org/wiki/Kira_Radinsky) was born in Ukraine and gained recognition when she predicted via data mining the first outbreak of Cholera in Cuba in over 130 years.
 * [Caitlin Smallwood](https://www.linkedin.com/in/caitlinsmallwood) is the VP of Data Science at Netflix where she led significant breakthroughs with user's decision and predictive models and algorithms.  This led to better personalization of customer's movie recommendations.
 
