@@ -4,14 +4,14 @@
 
 The purpose of this session is to ensure each participant feels comfortable with the basics of SQL.
 
-- [ ] Intro
+- [ ] **Intro**
 
     - SQL uses relational databases 
 
     - SQL provides instructions to search a database
 
 
-- [ ] Syntax
+- [ ] **Syntax**
 
     Case Independent - SQL Reserved Keywords can be upper case or lowercase. Convention is to make them all uppercase to distinguish them between table or database names.
 
@@ -32,7 +32,7 @@ The purpose of this session is to ensure each participant feels comfortable with
     `LIMIT [x]` - Gets the first `x` values
 
 
-- [ ] Clauses
+- [ ] **Clauses**
 
     When writing clauses always have the `WHERE` clause first, then the `AND` clause, then the `OR` clause. 
     ```SQL
@@ -68,7 +68,7 @@ The purpose of this session is to ensure each participant feels comfortable with
     ``` 
 
 
-- [ ] Query
+- [ ] **Query**
 
     Example Query: 
 
@@ -77,7 +77,7 @@ The purpose of this session is to ensure each participant feels comfortable with
     ```
 
 
-- [ ] Data Types
+- [ ] **Data Types**
 
     `INTEGER` - Stores whole numbers
 
@@ -90,7 +90,7 @@ The purpose of this session is to ensure each participant feels comfortable with
     `NULL` - Values that do not exist
 
 
-- [ ] Security lesson: Phishing & 2-Factor Authentication (2FA)
+- [ ] **Security lesson: Phishing & 2-Factor Authentication (2FA)**
 
     Phishing
     - The act of fraudulently acquiring data through emails or websites.
@@ -107,7 +107,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 - [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
 
-Our timeline will be:
+## Our timeline will be:
 
 - 2pm - 2:50pm: Intro to SQL using the W3 [School SQL editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc)
 
