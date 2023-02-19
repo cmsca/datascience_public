@@ -8,24 +8,24 @@ The purpose of this session is to ensure each participant feels comfortable with
 
     - SQL uses relational databases 
 
-    - SQL provides instructions to search from a database
+    - SQL provides instructions to search a database
 
 
 - [ ] Syntax
 
     Case Independent - SQL Reserved Keywords can be upper case or lowercase. Convention is to make them all uppercase to distinguish them between table or database names.
 
-    `*` = Gets All Values
+    `*` - Gets all values
 
-    `--` - Comment 
+    `--` - Makes a comments 
 
-    `AS` - Give an alias to a name
+    `AS` - Gives an alias to a name
 
     `JOIN` - Joins two tables together
 
-    `SELECT` - Select data from a database
+    `SELECT` - Selects data from a database
 
-    `DISTINCT` = Gives rows that are unique (not repeated)
+    `DISTINCT` - Gives rows that are unique (not repeated)
 
     `FROM` - Specifies table
 
@@ -90,13 +90,19 @@ The purpose of this session is to ensure each participant feels comfortable with
     `NULL` - Values that do not exist
 
 
-- [ ] Security lesson: Phishing & 2-Factor Authentication
+- [ ] Security lesson: Phishing & 2-Factor Authentication (2FA)
 
-    - Prevents Phishing 
+    Phishing
+        - The act of fraudulently acquiring data through emails or websites.
 
-    - Sends a code to your phone to verify that the person logging in is you
+        - Can somewhat be prevented through use of Virtual Private Network (VPN)
 
-    - Apps include [Twilio Authy](https://authy.com/) and [Duo Mobile](https://duo.com/)
+    2FA
+        - Improves security
+
+        - Sends a code to your phone to verify that the person logging in is you
+
+        - Apps include [Twilio Authy](https://authy.com/) and [Duo Mobile](https://duo.com/)
 
 
 - [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
