@@ -115,13 +115,14 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Requests
 - [ ] Beautiful Soup
 
-### 4. TBA | Intro to SQLite
+### 4. [Intro to SQL (19 Feb 2023)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_sql.md)
 
-The purpose of this session is to ensure each participant is familiar with the basics of SQLite3.
+The purpose of this session is to ensure each participant is familiar with the basics of SQL and SQLite3.
 
+- [ ] Intro to SQL
 - [ ] Creating a SQLite database
 - [ ] Connecting to a SQLite database
-- [ ] Creating tables
+- [ ] Creating tables 
 - [ ] Querying tables
 - [ ] Updating tables
 

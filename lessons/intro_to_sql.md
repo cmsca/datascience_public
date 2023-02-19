@@ -9,6 +9,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Query
 - [ ] Requests
 - [ ] Clauses
+- [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
 
 ## Resources / Notes from the session:
 
