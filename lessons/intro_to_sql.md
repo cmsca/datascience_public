@@ -33,13 +33,16 @@ The purpose of this session is to ensure each participant feels comfortable with
 
     When writing clauses always have the where clause then the and clause then the or clause. 
     ```SQL
-    LIKE '% %' ``` - Finds similar keywords
+    LIKE '% %' 
+    ``` - Finds similar keywords
 
     ```SQL 
-    WHERE [] = '' ``` - Create a condition 
+    WHERE [] = '' 
+    ``` - Create a condition 
 
      ```SQL 
-    WHERE [] IS NOT NULL ``` - Create a condition to not return `NULL` values
+    WHERE [] IS NOT NULL 
+    ``` - Create a condition to not return `NULL` values
     
     ```SQL 
     AND [] = '' ``` - Add multiple conditions
