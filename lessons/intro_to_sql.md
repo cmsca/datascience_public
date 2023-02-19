@@ -5,12 +5,85 @@
 The purpose of this session is to ensure each participant feels comfortable with the basics of SQL. We'll cover:
 
 - [ ] Intro
+
+    SQL uses relational databases 
+
+    SQL provides instructions to search from a database
 - [ ] Syntax
-- [ ] Query
-- [ ] Requests
+
+    Case Independent - SQL Reserved Keywords can be upper case or lowercase. Convention is to make them all uppercase to distinguish them between table or database names.
+
+    `*` = Gets All Values
+
+    `--` - Comment 
+
+    `AS` - Give an alias to a name
+
+    `JOIN` - Joins two tables together
+
+    `SELECT` - Select data from a database
+
+    `DISTINCT` = Gives rows that are unique (not repeated)
+
+    `FROM` - Specifies table
+
+    `LIMIT [x]` - Gets the first `x` values
+
 - [ ] Clauses
+
+    When writing clauses always have the where clause then the and clause then the or clause. 
+    ```SQL
+    LIKE '% %' ``` - Finds similar keywords
+
+    ```SQL 
+    WHERE [] = '' ``` - Create a condition 
+
+     ```SQL 
+    WHERE [] IS NOT NULL ``` - Create a condition to not return `NULL` values
+    
+    ```SQL 
+    AND [] = '' ``` - Add multiple conditions
+
+     ```SQL 
+    AND [] NOT LIKE '% %' ``` - Add condition to get a value that is not like some other value
+
+    ```SQL
+    OR [] = '' ``` - Add multiple conditions
+
+    ```SQL
+    ORDER BY [] ``` - Orders the column in alphabetical order
+
+    ```SQL
+    ORDER BY [] DESC``` Orders the column in descending alphabetical order
+
+- [ ] Query
+
+    Example Query: 
+    ```SQL
+    SELECT CustomerID FROM Customers WHERE Country = 'Germany' AND City = 'Berlin'
+    ```
+
+- [ ] Data Types
+
+    `INTEGER` - Stores whole numbers
+
+    `TEXT` - Stores long character strings
+
+    `BLOB` - Memory address of an object(reference or pointer)
+
+    `REAL`/`NUMERIC` - Stores numbers with decimals (Floating point numbers)
+
+    `NULL` - Values that do not exist
+
+- [ ] Security lesson: Phishing & 2-Factor Authentication
+
+    - Prevents Phishing 
+
+    - Sends a code to your phone to verify that the person logging in is you
+
+    - Apps include [Twilio Authy](https://authy.com/) and [Duo Mobile](https://duo.com/)
+
 - [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
-- [ ] Security lesson: Phishing & 2FA
 
 Our timeline will be:
 
