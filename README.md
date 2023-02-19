@@ -116,7 +116,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Requests
 - [ ] Beautiful Soup
 
-### 4. [Intro to SQL (19 Feb 2023)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_sql.md)
+### 4. [Intro to SQL (19 Feb 2023)](https://github.com/SameerDalal/datascience_public/blob/main/lessons/intro_to_sql.md)
 
 The purpose of this session is to ensure each participant is familiar with the basics of SQL and SQLite3.
 
