@@ -77,7 +77,7 @@ Any industry that collects data would benefit from having a Data Scientist to he
 
 ## Agenda
 
-### 1. [Setting up your Development Environment (30 Oct 2022)](setting_up.md)
+### 1. [Setting up your Development Environment (30 Oct 2022)](lessons/setting_up.md)
 
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
@@ -89,7 +89,7 @@ The purpose of this session is to ensure each participant has their local develo
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
-### 2. [Intro to Python (13 Nov 2022)](intro_to_python.md)
+### 2. [Intro to Python (13 Nov 2022)](lessons/intro_to_python.md)
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: South County Regional Library
@@ -106,7 +106,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### 3. [Intro to Web Scraping (8 Jan 2023)](intro_to_web_scraping.md)
+### 3. [Intro to Web Scraping (8 Jan 2023)](lessons/intro_to_web_scraping.md)
 
 The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
 
@@ -116,7 +116,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Requests
 - [ ] Beautiful Soup
 
-### 4. [Intro to SQL (19 Feb 2023)](intro_to_sql.md)
+### 4. [Intro to SQL (19 Feb 2023)](lessons/intro_to_sql.md)
 
 The purpose of this session is to ensure each participant is familiar with the basics of SQL and SQLite3.
 
