@@ -93,16 +93,16 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Security lesson: Phishing & 2-Factor Authentication (2FA)
 
     Phishing
-        - The act of fraudulently acquiring data through emails or websites.
+    - The act of fraudulently acquiring data through emails or websites.
 
-        - Can somewhat be prevented through use of Virtual Private Network (VPN)
+    - Can somewhat be prevented through use of Virtual Private Network (VPN)
 
     2FA
-        - Improves security
+    - Improves security
 
-        - Sends a code to your phone to verify that the person logging in is you
+    - Sends a code to your phone to verify that the person logging in is you
 
-        - Apps include [Twilio Authy](https://authy.com/) and [Duo Mobile](https://duo.com/)
+    - Apps include [Twilio Authy](https://authy.com/) and [Duo Mobile](https://duo.com/)
 
 
 - [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
