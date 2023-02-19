@@ -13,7 +13,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 
 - [ ] **Syntax**
 
-    Case Independent - SQL Reserved Keywords can be upper case or lowercase. Convention is to make them all uppercase to distinguish them between table or database names.
+    Case Independent - SQL Reserved Keywords can be uppercase or lowercase. Convention is to make them all uppercase to distinguish them between table or database names.
 
     `*` - Gets all values
 
