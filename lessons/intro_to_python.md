@@ -21,7 +21,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 
 - [ ] **Conditional execution**
 
-    Boolean Expressions (True/False) can be checked by the conditional statement
+    Boolean Expressions (True/False) can be checked by conditional statements
 
     - If statements: if a condition is true, the code inside that `if` statement will run
     ```Python
