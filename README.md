@@ -62,7 +62,7 @@ With a degree in the field and just a few years of experience, a Data Scientist 
 
 ### Famous Data Scientists
 
-* [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebruhttps:/): is a well known Scientist who is fighting for fairness and accountability in the field of Artificial Intelligence and Data Mining.  She is considered one of the world's most influential people in this field.
+* [Timnit Gebru](https://en.wikipedia.org/wiki/Timnit_Gebru): is a well known Scientist who is fighting for fairness and accountability in the field of Artificial Intelligence and Data Mining.  She is considered one of the world's most influential people in this field.
 * [Kira Radinsky](https://en.wikipedia.org/wiki/Kira_Radinsky) was born in Ukraine and gained recognition when she predicted via data mining the first outbreak of Cholera in Cuba in over 130 years.
 * [Caitlin Smallwood](https://www.linkedin.com/in/caitlinsmallwood) is the VP of Data Science at Netflix where she led significant breakthroughs with user's decision and predictive models and algorithms.  This led to better personalization of customer's movie recommendations.
 
@@ -77,7 +77,7 @@ Any industry that collects data would benefit from having a Data Scientist to he
 
 ## Agenda
 
-### 1. [Setting up your Development Environment (30 Oct 2022)](https://github.com/cmsca/datascience_public/blob/main/lessons/setting_up.md)
+### 1. [Setting up your Development Environment (30 Oct 2022)](lessons/setting_up.md)
 
 * Class Notes: [https://github.com/cmsca/datascience_public/blob/main/setting_up.md](https://github.com/cmsca/datascience_public/blob/main/setting_up.md)
 
@@ -89,7 +89,7 @@ The purpose of this session is to ensure each participant has their local develo
 - [ ] Creating a virtual environment
 - [ ] PIP Installing Python libraries
 
-### 2. [Intro to Python (13 Nov 2022)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_python.md)
+### 2. [Intro to Python (13 Nov 2022)](lessons/intro_to_python.md)
 
 * Date/Time: 13 Nov 2022, 2-4pm ET
 * Location: South County Regional Library
@@ -106,7 +106,7 @@ The purpose of this session is to ensure each participant is comfortable enough 
 - [ ] Lists
 - [ ] Dictionaries
 
-### 3. [Intro to Web Scraping (8 Jan 2023)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_web_scraping.md)
+### 3. [Intro to Web Scraping (8 Jan 2023)](lessons/intro_to_web_scraping.md)
 
 The purpose of this session is to ensure each participant feels comfortable with the basics of web scraping in Python. We'll cover:
 
@@ -116,7 +116,7 @@ The purpose of this session is to ensure each participant feels comfortable with
 - [ ] Requests
 - [ ] Beautiful Soup
 
-### 4. [Intro to SQL (19 Feb 2023)](https://github.com/cmsca/datascience_public/blob/main/lessons/intro_to_sql.md)
+### 4. [Intro to SQL (19 Feb 2023)](lessons/intro_to_sql.md)
 
 The purpose of this session is to ensure each participant is familiar with the basics of SQL and SQLite3.
 

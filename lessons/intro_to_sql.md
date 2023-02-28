@@ -2,17 +2,112 @@
 
 ## Desired outcomes from this session:
 
-The purpose of this session is to ensure each participant feels comfortable with the basics of SQL. We'll cover:
+The purpose of this session is to ensure each participant feels comfortable with the basics of SQL.
 
-- [ ] Intro
-- [ ] Syntax
-- [ ] Query
-- [ ] Requests
-- [ ] Clauses
+- [ ] **Intro**
+
+    - SQL uses relational databases 
+
+    - SQL provides instructions to search a database
+
+
+- [ ] **Syntax**
+
+    Case Independent - SQL Reserved Keywords can be uppercase or lowercase. Convention is to make them all uppercase to distinguish them between table or database names.
+
+    `*` - Gets all values
+
+    `--` - Makes a comments 
+
+    `AS` - Gives an alias to a name
+
+    `JOIN` - Joins two tables together
+
+    `SELECT` - Selects data from a database
+
+    `DISTINCT` - Gives rows that are unique (not repeated)
+
+    `FROM` - Specifies table
+
+    `LIMIT [x]` - Gets the first `x` values
+
+
+- [ ] **Clauses**
+
+    When writing clauses always have the `WHERE` clause first, then the `AND` clause, then the `OR` clause. 
+    ```SQL
+    LIKE '% %' -- Finds similar keywords
+    ``` 
+
+    ```SQL 
+    WHERE [] = '' -- Create a condition
+    ``` 
+
+     ```SQL 
+    WHERE [] IS NOT NULL -- Create a condition to not return `NULL` values
+    ```
+    
+    ```SQL 
+    AND [] = '' -- Add multiple conditions
+    ``` 
+
+    ```SQL 
+    AND [] NOT LIKE '% %' -- Add condition to get a value that is not like some other value
+    ```
+
+    ```SQL
+    OR [] = '' -- Add multiple conditions
+    ```
+
+    ```SQL
+    ORDER BY [] -- Orders the column in alphabetical order
+    ```
+
+    ```SQL
+    ORDER BY [] DESC -- Orders the column in descending alphabetical order
+    ``` 
+
+
+- [ ] **Query**
+
+    Example Query: 
+
+    ```SQL
+    SELECT CustomerID FROM Customers WHERE Country = 'Germany' AND City = 'Berlin'
+    ```
+
+
+- [ ] **Data Types**
+
+    `INTEGER` - Stores whole numbers
+
+    `TEXT` - Stores long character strings
+
+    `BLOB` - Memory address of an object(reference or pointer)
+
+    `REAL`/`NUMERIC` - Stores numbers with decimals (Floating point numbers)
+
+    `NULL` - Values that do not exist
+
+
+- [ ] **Security lesson: Phishing & 2-Factor Authentication (2FA)**
+
+    Phishing
+    - The act of fraudulently acquiring data through emails or websites.
+
+    - Can somewhat be prevented through use of Virtual Private Network (VPN)
+
+    2FA
+    - Improves security
+
+    - Sends a code to your phone to verify that the person logging in is you
+
+    - Apps include [Twilio Authy](https://authy.com/) and [Duo Mobile](https://duo.com/)
+
+
 - [ ] Using the [SQLite DB Browser](https://sqlitebrowser.org/)
-- [ ] Security lesson: Phishing & 2FA
 
-Our timeline will be:
+## Our timeline will be:
 
 - 2pm - 2:50pm: Intro to SQL using the W3 [School SQL editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_asc)
 
