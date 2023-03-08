@@ -23,7 +23,7 @@
 
 **Next Data Science Meetup**:
 
-* Date/Time: Sunday - February 19, 2023, 2-4pm ET
+* Date/Time: Sunday - March 26, 2023, 3:00pm-4:30pm ET (new time)
 * Location: South County Regional Library
 * Address: 5801 Rea Rd, Charlotte, NC 28277
 * Meeting Room: Conference room on second floor
