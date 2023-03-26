@@ -127,7 +127,7 @@ The purpose of this session is to ensure each participant is familiar with the b
 - [ ] Querying tables
 - [ ] Updating tables
 
-### 5. TBA | Using Web Scraping to Get Chess Match Results
+### 5. [Using Web Scraping to Get Chess Match Results (26 Mar 2023)](lessons/web_scraping_for_chess_results.md)
 
 The purpose of this lesson is to ensure each participant is familiar with the main methods for web scraping. This will be an orientation session wherein each participant will learn how to use web scraping to extract chess match results and write them to a SQLite database. 
 
