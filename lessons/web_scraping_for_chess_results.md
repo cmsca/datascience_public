@@ -19,6 +19,8 @@ We'll examen approaches to two sites:
 - [ ] Scraping [chess player profiles](https://new.uschess.org/player-search) to create a table of player and player IDs
 - [ ] Scraping [chess player match results](https://www.uschess.org/datapage/gamestats.php) to create a table of each player and the results of their last 30 matches
 
+(Time permitting, we will also use SQL to prepare sample data of US Chess Players.)
+
 ## Our timeline will be:
 
 - 3pm - 3:50pm: Discuss different types of web scraping
@@ -43,7 +45,6 @@ Search Operators
 - [ ] Asterisk (*)
 - [ ] OR
 - [ ] related:
-
 
 Examples
 
