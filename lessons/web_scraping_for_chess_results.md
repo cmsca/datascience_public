@@ -6,12 +6,14 @@ The purpose of this lesson is to ensure each participant is familiar with the ma
 
 We'll discuss:
 
-- [ ] HTML vs JavaScript
+- [ ] HTML vs [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
+- [ ] [Requests](https://docs.python-requests.org/en/latest/)
+- [ ] [Pandas](https://pandas.pydata.org/)
 - [ ] [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/)
 - [ ] [Selenium](https://www.selenium.dev/)
 - [ ] [Scrapy](https://scrapy.org/)
 - [ ] [Playwright](https://playwright.dev/) 
-- [ ] Robotic Process Automation
+- [ ] [Robotic Process Automation](https://github.com/tebelorg/RPA-Python)
 - [ ] Dorking
 
 We'll examen approaches to two sites:
