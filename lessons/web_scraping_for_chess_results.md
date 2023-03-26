@@ -14,7 +14,43 @@ We'll discuss:
 - [ ] Robotic Process Automation
 - [ ] Dorking
 
-We'll demonstrate two programs:
+We'll examen approaches to two sites:
 
 - [ ] Scraping chess player profiles to create a table of player and player IDs
 - [ ] Scraping chess player match results to create a table of each player and the results of their last 30 matches
+
+## Our timeline will be:
+
+- 3pm - 3:50pm: Discuss different types of web scraping
+
+- 2:50pm - 3pm: Break
+
+- 3pm - 3:30pm: Look at the websites we would want to scrape and discuss approaches
+
+- 3:30pm - 4pm: Security lesson on 'Dorking'
+
+## Security Lesson Notes
+
+Search Operators
+
+- [ ] Quotation marks
+- [ ] site:
+- [ ] filetype:
+- [ ] Hyphen (-)
+- [ ] inurl:
+- [ ] intitle:
+- [ ] OR
+- [ ] Asterisk (*)
+- [ ] OR
+- [ ] related:
+
+
+Examples
+
+```
+inurl:ftp -inurl(http|https) filetype:pdf "Chess"
+```
+
+```
+intitle:"Chess Video Training"
+```

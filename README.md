@@ -141,10 +141,12 @@ We'll discuss:
 - [ ] Robotic Process Automation
 - [ ] Dorking
 
-We'll demonstrate two programs:
+We'll examen approaches to two sites:
 
 - [ ] Scraping chess player profiles to create a table of player and player IDs
 - [ ] Scraping chess player match results to create a table of each player and the results of their last 30 matches
+
+(Time permitting, we will also use SQL to prepare sample data of US Chess Players.) 
 
 ### 6. TBA | Intro to Plotly Dash
 
