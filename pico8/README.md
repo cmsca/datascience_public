@@ -9,8 +9,12 @@ The harsh limitations of PICO-8 are carefully chosen to be fun to work with, enc
 ## References
 
 [Pico-8 Homepage](https://www.lexaloffle.com/pico-8.php)
+
 [Pico-8 Education](https://www.pico-8-edu.com/)
+
 [Pico-8 Manual](https://www.lexaloffle.com/dl/docs/pico-8_manual.html)
+
 [Pico-8 Nerdy Teachers](https://nerdyteachers.com/PICO-8/)
+
 [Pico-8 Cheat Sheet](https://www.lexaloffle.com/bbs/?pid=74609)
 
