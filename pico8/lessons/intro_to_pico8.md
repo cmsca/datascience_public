@@ -18,6 +18,8 @@ The purpose of this lesson is to ensure each participant is comfortable enough w
 
 	- Each game ('cart') has a token limit of 8192 tokens
 
+	- Add comments using `--`
+
 - [ ] **The Sprite Editor**
 
 	- Sprites are the pieces of art that make up your game. They might be characters, map tiles, pickups, backgrounds... anything!
@@ -49,10 +51,50 @@ The purpose of this lesson is to ensure each participant is comfortable enough w
 - [ ] **Programming Basics**
 
 	- Variables
+		
+		Do not use sprite reserved keywords like `spr`
+
+		**Types of variables:**
+
+		Numbers: 
+		`x = 100`
+
+		Strings: 
+		`phrase = 'Hello World'`
+		
+		Tables: 
+
+		```
+		grades = {}
+		grades.chemistry = 95
+		grades.math = 93
+		grades.english = 99
+		```
 
 	- Functions
+	
+	Components of functions:
+	- [ ] function keyword
+	- [ ] function name
+	- [ ] parameters
+	- [ ] end keyword
 
-	- Tables
+
+	Example:
+
+	```
+	function print_text(text)
+	print(text)
+	end
+	```
+	Calling the `print_text` function:
+
+	`print_text('hello world')`
+
+
+	Other examples of functions:
+	
+	`circfill(x,y,radius,color)`
 
 - [ ] **The Game Loop**
 
