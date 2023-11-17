@@ -24,6 +24,8 @@ The harsh limitations of PICO-8 are carefully chosen to be fun to work with, enc
 
 - Saving, Exporting, and Sharing
 
+- Menus and Screens
+
 ## References
 
 [Pico-8 Homepage](https://www.lexaloffle.com/pico-8.php)
