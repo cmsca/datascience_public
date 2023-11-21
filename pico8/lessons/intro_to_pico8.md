@@ -64,7 +64,7 @@ The purpose of this lesson is to ensure each participant is comfortable enough w
 		
 		Tables: 
 
-		```
+		```lua
 		grades = {}
 		grades.chemistry = 95
 		grades.math = 93
@@ -82,7 +82,7 @@ The purpose of this lesson is to ensure each participant is comfortable enough w
 
 	Example:
 
-	```
+	```lua
 	function print_text(text)
 	print(text)
 	end

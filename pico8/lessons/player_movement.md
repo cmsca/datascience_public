@@ -35,14 +35,14 @@ Note: this is a table!
 function _init()
 
     player={
-        sp=1,
-        x=59,
-        y=59,
-        w=8,
-        h=8,
-        flp=false,
-        dx=1,
-        dy=1
+        sp=1, -- sprite position
+        x=59, -- initial x position
+        y=59, -- initial y position
+        w=8,  -- width
+        h=8,  -- height
+        flp=false, -- flip (direction player is facing)
+        dx=1, -- change in x
+        dy=1  -- change in y
     }
 
 end
@@ -73,11 +73,11 @@ end
 ```lua
 function _draw()
 
-    cls()
+    cls() -- clear screen
 
-    map(0,0)
+    map(0,0)  -- where the game starts
     
-    spr(player.sp,player.x,player.y,1,1,player.flp)
+    spr(player.sp,player.x,player.y,1,1,player.flp)  -- draw the player
 
 end
 ```
