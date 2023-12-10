@@ -6,7 +6,7 @@ The purpose of ths lesson is to ensure each participant has a basic understandin
 
 ## Draw new sprites
 
-![Spritesheet](/spritesheet.png)
+![Spritesheet](spritesheet.png)
 
 
 ## Bookmarks
