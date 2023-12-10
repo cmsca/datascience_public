@@ -4,6 +4,10 @@
 
 The purpose of ths lesson is to ensure each participant has a basic understanding of how to animate a sprite.
 
+## Draw new sprites
+
+![Spritesheet](/spritesheet.png)
+
 
 ## Bookmarks
 
