@@ -12,7 +12,7 @@ The harsh limitations of PICO-8 are carefully chosen to be fun to work with, enc
 
 - Player movement: 19 Nov 2023
 
-- Player animation
+- Player animation: 10 Dec 2023
 
 - Collisions
 
@@ -37,4 +37,3 @@ The harsh limitations of PICO-8 are carefully chosen to be fun to work with, enc
 [Pico-8 Nerdy Teachers](https://nerdyteachers.com/PICO-8/)
 
 [Pico-8 Cheat Sheet](https://www.lexaloffle.com/bbs/?pid=74609)
-
