@@ -73,63 +73,114 @@ end
 ## Update Player Functions
 
 ```lua
--- player animation
--- by ben
+----------------------
+-- player functions --
+----------------------
 
-----------
--- init --
-----------
+-------------------
+-- player update --
+-------------------
 
-function _init()
+function player_update()
 
-    player={
-        sp=1,
-        x=59,
-        y=59,
-        w=8,
-        h=8,
-        flp=false,
-        acc=1,
-        anim=0,
-        running=false,
-        jumping=false,
-        sliding=false,
-        falling=false,
-        landed=false
-    }
+	-- physics
+	player.y+=gravity
 
-    gravity=0.3
+	-- move left
+	if btn(0) then
+		player.x-=player.acc
+		player.flp=true
+		player.running=true
+	end
 
-end
+	-- move right
+	if btn(1) then
+		player.x+=player.acc
+		player.flp=false
+		player.funning=true
+	end
 
+	-- idle
+	if player.running
+		and not btn(0)
+		and not btn(1) then
+			player.running=false
+	end
 
-------------
--- update --
-------------
-
-function _update()
-
-    player_update()
-    
-    player_animate()
-    
-    keep_plr_on_screen()
+	-- jump
+	if btn(2) then 
+		player.y-=player.acc
+	end
 
 end
 
-----------
--- draw --
-----------
+---------------------------
+-- keep player on screen --
+---------------------------
 
-function _draw()
+function keep_plr_on_screen()
 
-    cls(12) -- clear screen
+	-- stop at bottom of screen
+	if player.y >= 111 then
+		player.y = 111
+	end
 
-    map(0,0)  -- where the game starts
-    
-    spr(player.sp,player.x,player.y,1,1,player.flp)  -- draw the player
+	-- stop at top of screen
+	if player.y <= 0 then
+		player.y=0
+	end
+
+	-- reset on right of screen
+	if player.x > 127 then
+		player.x=0
+	end
+
+	-- reset on left of screen
+	if player.x <= -8 then
+		player.x= 127
+	end
 
 end
+
+--------------------
+-- player animate --
+--------------------
+
+function player_animate()
+
+	-- jumping (tba)
+	if player.jumping then
+		player.sp=127
+
+	-- falling (tba)
+	elseif player.falling then 
+		player.sp=8
+
+	-- sliding
+	elseif player.sliding then
+		player.sp=9
+
+	-- running
+	elseif player.running then
+		if time()-player.anim >.1 then
+			player.anim=time() 
+			player.sp+=1
+			if player.sp>4 then
+				player.sp=3
+			end
+		end
+
+	-- idle
+	else
+		if time()-player.anim > .3 then
+			player.anim=time()
+			player.sp+=1
+			if player.sp > 2 then
+				player.sp=1
+			end
+		end
+	end
+end 
 ```
 
 
