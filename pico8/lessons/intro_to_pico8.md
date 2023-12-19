@@ -71,6 +71,31 @@ The purpose of this lesson is to ensure each participant is comfortable enough w
 		grades.english = 99
 		```
 
+	- If Statements
+		
+		Example if statement:
+
+		```lua
+		if player.x > 200 then
+			player.x = 0
+		end
+		```
+
+		Example else-if statement:
+
+		```lua
+		if player.jumping then
+			player.sp = 7
+		elseif player.falling then 
+			player.sp = 8
+		elseif player.sliding then
+			player.sp = 9
+		else 
+			player.sp = 1
+		end
+		```
+		
+
 	- Functions
 	
 	Components of functions:
